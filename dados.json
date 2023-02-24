@@ -1,0 +1,45 @@
+{
+    "pop": {
+    "name": "Cantora: Lady Gaga",
+    "album": "Album: Chromatica",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 120,00",
+    "image": "<img src='img/Chromatica.jpg' width='300px'>"
+},
+    "pop2": {
+    "name": "Cantora: Lady Gaga",
+    "album": "Album: Artpop",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 120,00",
+    "image": "<img src='img/artpop.jpg' width='300px'>"
+}, 
+"pop3": {
+    "name": "Cantora: Lady Gaga",
+    "album": "Album: The Fame",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 120,00",
+    "image": "<img src='img/theFame.jpg' width='300px'>"
+},
+    "pop11": {
+    "name": "Cantora: Selena Gomez",
+    "album": "Album: Rare",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 90,00",
+    "image": "<img src='img/rare.jpg' width='300px'>"
+},
+    "pop12": {
+    "name": "Cantora: Selena Gomez",
+    "album": "Album: Revival",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 90,00",
+    "image": "<img src='img/revival.jpg' width='300px'>"
+},
+    "pop13": {
+    "name": "Cantora: Selena Gomez",
+    "album": "Album: Stars Dance",
+    "style": "Gênero: Pop",
+    "price": "Preço: R$ 90,00",
+    "image": "<img src='img/stardance.jpg' width='300px'>"
+}
+
+}
